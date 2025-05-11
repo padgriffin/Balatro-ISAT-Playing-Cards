@@ -2,7 +2,7 @@
 --- MOD_NAME: ISAT Playing Cards
 --- MOD_ID: ISATCards
 --- MOD_AUTHOR: [padgriffin, ezciter.bsky.social]
---- MOD_DESCRIPTION: ISAT Playing Cards: Art by @ezciter.bsky.social, port to Steammodded by @padgriffin.com
+--- MOD_DESCRIPTION: ISAT Playing Cards: Art by @ezciter.bsky.social, port to Steamodded by @padgriffin.com
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
@@ -75,7 +75,7 @@ SMODS.DeckSkin{
   key = "collab_isat_spades",
   suit = "Spades",
   ranks =  {"Jack", "Queen", "King"},
-  display_ranks = {"Jack", "Queen", "King"},
+  display_ranks = {"Jack", "Queen", "King"},    
   lc_atlas = "collab_isat_spades_1",
   hc_atlas = "collab_isat_spades_2",
   loc_txt = {
