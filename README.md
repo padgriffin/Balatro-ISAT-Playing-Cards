@@ -3,4 +3,4 @@ Adds In Stars and Time-themed playing cards for Balatro. Art by [@ezciter.bsky.s
 
 The ISAT deck is selectable in Options -> Customize Deck.
 
-Requires [Steammodded](https://github.com/Steamodded/smods).
+Requires [Steamodded](https://github.com/Steamodded/smods).
