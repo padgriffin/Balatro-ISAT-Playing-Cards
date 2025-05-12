@@ -7,3 +7,5 @@ Adds In Stars and Time-themed playing cards for Balatro. Art by [@ezciter.bsky.s
 Has two options- one with the symbols in the corner and one with them removed (alt). Both are included with the mod, you can choose what variant you want to use in Options -> Customize Deck.
 
 Requires [Steamodded](https://github.com/Steamodded/smods).
+
+In Stars and Time and characters belong to insertdisc5.
